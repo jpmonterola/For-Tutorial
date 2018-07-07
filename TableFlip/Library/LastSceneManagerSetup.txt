@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/S0-SplashScreen.unity
-  isLoaded: 1
-  isActive: 1
